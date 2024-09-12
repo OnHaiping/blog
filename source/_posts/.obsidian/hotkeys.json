@@ -25,5 +25,13 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
   ]
 }
