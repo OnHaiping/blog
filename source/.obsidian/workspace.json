@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/数学竞赛.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/数学竞赛.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/数学竞赛.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/数学竞赛.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +166,13 @@
   },
   "active": "f5776d6d7bd46715",
   "lastOpenFiles": [
-    "hello-world.md",
+    "2024-09-12.md",
+    "_scaffolds/page.md",
+    "未命名.md",
     "数学/数学竞赛.md",
+    "hello-world.md",
     "数学",
     "_scaffolds/post.md",
-    "_scaffolds/page.md",
     "_scaffolds/draft.md",
     "_scaffolds",
     "Imgs",
