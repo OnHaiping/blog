@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "9abe2e3caf38a287",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e038089e22feaef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b1f2cb3fe81513a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello-world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5776d6d7bd46715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/数学竞赛.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90213f779902c598",
+    "type": "split",
+    "children": [
+      {
+        "id": "8077f03b9143b018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28546e4b017a7cb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50a97938631e23d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "140758f8bcb1a5f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ef2bfc287ce992f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8745a87622e6d86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7d491f2a1e680a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/数学竞赛.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b6978d5726614dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/数学竞赛.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8b5e7777778be25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33ccd10946060a3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/数学竞赛.md"
+              }
+            }
+          },
+          {
+            "id": "0e38326e7f913088",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f5776d6d7bd46715",
+  "lastOpenFiles": [
+    "hello-world.md",
+    "数学/数学竞赛.md",
+    "数学",
+    "_scaffolds/post.md",
+    "_scaffolds/page.md",
+    "_scaffolds/draft.md",
+    "_scaffolds",
+    "scaffolds/page.md",
+    "scaffolds/post.md",
+    "scaffolds/draft.md",
+    "scaffolds",
+    "_",
+    "Imgs"
+  ]
+}

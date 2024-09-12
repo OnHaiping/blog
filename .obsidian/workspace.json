@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "b8181df386ad6f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "02fe5116ec73e30c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b873b346b299da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a17e035817092190",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac3c3421c144995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96e735d8907b98de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6504c3c27e7375d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6e72f1a04f7805e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e973be959b0707e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "02693c6bfcdc92d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5834033aca1ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7ecb527f499a922",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f0af3597e6eee3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b59f8c481ce1c65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f8b873b346b299da",
+  "lastOpenFiles": [
+    "source/_posts/_scaffolds/page.md",
+    "source/_posts/_scaffolds/post.md",
+    "source/_posts/_scaffolds/draft.md",
+    "source/_posts/_scaffolds",
+    "source/_posts/scaffolds/post.md",
+    "source/_posts/scaffolds/page.md",
+    "source/_posts/scaffolds/draft.md",
+    "source/_posts/scaffolds",
+    "source/scaffolds/post.md",
+    "source/scaffolds/page.md",
+    "source/scaffolds/draft.md",
+    "source/scaffolds",
+    "scaffolds/post.md",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
+    "scaffolds",
+    "source/_posts/_",
+    "source/_posts/未命名",
+    "source/_posts/Imgs"
+  ]
+}
