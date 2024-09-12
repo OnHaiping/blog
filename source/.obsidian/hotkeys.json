@@ -17,12 +17,13 @@
       "key": "M"
     }
   ],
+  "command-palette:open": [],
   "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "["
+      "key": "P"
     }
   ],
   "obsidian-git:push2": [
@@ -30,7 +31,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "]"
+      "key": "["
     }
   ]
 }
